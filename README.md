@@ -90,7 +90,7 @@ Sickness Notification (Staff Working)
 
 
 
-### Interaktiver Prototyp
+**Interaktiver Prototyp**
 
 [Link Interaktiver Prototyp](https://www.figma.com/proto/vT5W6zGlSqADeKLkclEqH1/GUI-Projekt?scaling=scale-down&node-id=6%3A0)
 
@@ -98,7 +98,8 @@ Sickness Notification (Staff Working)
 ## Design Transformation Challenge
 
 
-Nehmen wir nun folgendes an: Ihr Kunde ist total verliebt in Ihre bisherige Arbeit und beauftragt Sie:
+Nehmen wir nun folgendes an:
+Ihr Kunde ist total verliebt in Ihre bisherige Arbeit und beauftragt Sie:
 
 **Tablet Version**
 
@@ -111,6 +112,13 @@ Nehmen wir nun folgendes an: Ihr Kunde ist total verliebt in Ihre bisherige Arbe
 >Letzte Woche haben wir die Großbildsysteme unserem Vizepräsidenten und den Senior Directors vorgestellt. Wir kamen auf die Idee, dieses System auf unseren Smartwatches laufen zu lassen. Das wäre eine tolle Aktivität in unserer digitalen Transformation, um unser Unternehmen zu fördern. Wir brauchen einen Proof of Concept für die anstehende Messepräsentation im nächsten Sommer.
 
 [Smartwatch Prototyp](https://www.figma.com/proto/Goe2thE3389PCp60XWrGw4/GUI-Smartwatch?node-id=1%3A2&scaling=scale-down)
+
+
+## Design Transformation Challenge
+
+>Ihre Aufgabe ist es, einen Ihrer vorhandenen Bildschirme aus dem großen oder Tablet-Prototyp nach den Design-Richtlinien von Google oder Apple auszurichten. Beide Richtlinien decken mobile und Desktop-Viewports ab, für diese Aufgabe sollten Sie sich nur auf eine Viewport-Größe konzentrieren.
+
+
 
 
 

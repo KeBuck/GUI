@@ -1,6 +1,6 @@
 # Projekt GUI (Graphical User Interfaces)
 
-
+![GIF_Layout](GIF.gif)
 
 ## Erste GUI-Prototypen
 

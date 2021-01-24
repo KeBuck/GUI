@@ -90,6 +90,14 @@ Sickness Notification (Staff Working)
 
 
 
+### Interaktiver Prototyp
+
+[Link Interaktiver Prototyp](https://www.figma.com/proto/vT5W6zGlSqADeKLkclEqH1/GUI-Projekt?scaling=scale-down&node-id=6%3A0)
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/KeBuck/GUI/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,4 +1,4 @@
-# Projekt GUI (Graphical User Interfaces)
+# :art: Projekt GUI (Graphical User Interfaces)
 
 
 
@@ -95,6 +95,22 @@ Sickness Notification (Staff Working)
 [Link Interaktiver Prototyp](https://www.figma.com/proto/vT5W6zGlSqADeKLkclEqH1/GUI-Projekt?scaling=scale-down&node-id=6%3A0)
 
 
+## Design Transformation Challenge
+
+
+Nehmen wir nun folgendes an: Ihr Kunde ist total verliebt in Ihre bisherige Arbeit und beauftragt Sie:
+
+**Tablet Version**
+
+>Es gibt einige Anwendungsfälle, bei denen der ortsgebundene Bildschirm im Besprechungsraum nicht ausreicht: wenn Besprechungen in einem anderen Büro stattfinden, zum Beispiel wenn Diskussionen über die Produktionszahlen der Anlage direkt am Fließband mit den Meistern und Vorarbeitern besprochen werden. Wir brauchen also eine Adaption dieser Großbildsysteme für Tablets.
+
+[Tablet Prototyp](https://www.figma.com/proto/cAURnzkD0LGeQ7Mt70XyT5/GUI-Tablet?node-id=2%3A2&scaling=scale-down)
+
+**Smartwatch Version**
+
+>Letzte Woche haben wir die Großbildsysteme unserem Vizepräsidenten und den Senior Directors vorgestellt. Wir kamen auf die Idee, dieses System auf unseren Smartwatches laufen zu lassen. Das wäre eine tolle Aktivität in unserer digitalen Transformation, um unser Unternehmen zu fördern. Wir brauchen einen Proof of Concept für die anstehende Messepräsentation im nächsten Sommer.
+
+[Smartwatch Prototyp](https://www.figma.com/proto/Goe2thE3389PCp60XWrGw4/GUI-Smartwatch?node-id=1%3A2&scaling=scale-down)
 
 
 

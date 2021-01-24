@@ -1,6 +1,66 @@
-## Welcome to GitHub Pages
+# Projekt GUI (Graphical User Interfaces)
 
-![](GUI_1/20201023_204325.jpg) 
+
+
+## Erste GUI-Prototypen
+
+Eure Aufgabe ist es, eine GUI auf Basis des anfänglichen Briefings des Kunden zu erstellen:
+
+>Unsere Geschäftsführung erhält alle relevanten Daten unserer Werke vom Controlling als Excel-Datei. Unsere Sekretärin verarbeitet diese Exceldaten zu Diagrammen und kopiert die >Exceldatei auf unseren großen Touchscreen im Hauptkonferenzraum für die täglichen Besprechungen. Wir brauchen eine zeitgemäße Lösung! Ein ausgeklügeltes, interaktives >Präsentationssystem unserer Produktionszahlen für Besprechungen. Die Exceldatei liefert folgende Informationen: die Anzahl der produzierten Einheiten, die Ausschussquoten, >Kosten für Verschleißteile und Krankmeldungen von Mitarbeitern. Diese Daten erhalten wir aus allen drei Werken täglich um 22:00 Uhr (Hinweis: Bildschirmauflösung: FullHD)
+
+### Low Fidelity
+
+Home:
+
+![Home_LF](GUI_1/20201023_204325.jpg)
+
+
+Number Produced Products
+
+![Number_Produced_Products_LF](GUI_1/20201023_204341.jpg)
+
+
+Reject Rates
+
+![Reject_Rates_LF](GUI_1/20201023_204404.jpg)
+
+
+Costs of Wearing Parts
+
+![Costs_of_Wearing_Parts_LF](GUI_1/20201023_204418.jpg)
+
+
+Sickness Notification (Staff Working)
+
+![Staff_Working_LF](GUI_1/20201023_204440.jpg)
+
+
+### Medium Fidelity
+
+Home:
+
+![Home_MF](GUI_1/Home_MF.png)
+
+
+Number Produced Products
+
+![Number_Produced_Products_MF](GUI_1/N. Produced Produts_MD.png)
+
+
+Reject Rates
+
+![Reject_Rates_MF](GUI_1/The Reject Rate_MF.png)
+
+
+Costs of Wearing Parts
+
+![Costs_of_Wearing_Parts_MF](GUI_1/Costs_MF.png)
+
+
+Sickness Notification (Staff Working)
+
+![Staff_Working_MF](GUI_1/Staff Working_MF2.png)
+
 
 You can use the [editor on GitHub](https://github.com/KeBuck/GUI/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

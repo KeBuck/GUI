@@ -62,6 +62,35 @@ Sickness Notification (Staff Working)
 ![Staff_Working_MF](GUI_1/Staff Working_MF2.png)
 
 
+### High Fidelity
+
+Home:
+
+![Home_HF](GUI_1/Home_HF.png)
+
+
+Number Produced Products
+
+![Number_Produced_Products_HF](GUI_1/N. Produced Produts_HF1.png)
+
+
+Reject Rates
+
+![Reject_Rates_HF](GUI_1/The Reject Rate_HF1.png)
+
+
+Costs of Wearing Parts
+
+![Costs_of_Wearing_Parts_HF](GUI_1/Costs_HF1.png)
+
+
+Sickness Notification (Staff Working)
+
+![Staff_Working_HF](GUI_1/Staff Working_HF.png)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/KeBuck/GUI/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

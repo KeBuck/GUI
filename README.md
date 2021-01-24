@@ -118,6 +118,14 @@ Ihr Kunde ist total verliebt in Ihre bisherige Arbeit und beauftragt Sie:
 
 >Ihre Aufgabe ist es, einen Ihrer vorhandenen Bildschirme aus dem großen oder Tablet-Prototyp nach den Design-Richtlinien von Google oder Apple auszurichten. Beide Richtlinien decken mobile und Desktop-Viewports ab, für diese Aufgabe sollten Sie sich nur auf eine Viewport-Größe konzentrieren.
 
+Home:
+
+![Home_HF](GUI_1/Home_HF_GUI.png)
+
+
+Material Design:
+
+![Material_Home](Material_GitHub/Home_HF_Material.png)
 
 
 

@@ -1,4 +1,4 @@
-# :art: Projekt GUI (Graphical User Interfaces)
+# Projekt GUI (Graphical User Interfaces)
 
 
 
@@ -6,7 +6,7 @@
 
 Eure Aufgabe ist es, eine GUI auf Basis des anfänglichen Briefings des Kunden zu erstellen:
 
->Unsere Geschäftsführung erhält alle relevanten Daten unserer Werke vom Controlling als Excel-Datei. Unsere Sekretärin verarbeitet diese Exceldaten zu Diagrammen und kopiert die >Exceldatei auf unseren großen Touchscreen im Hauptkonferenzraum für die täglichen Besprechungen. Wir brauchen eine zeitgemäße Lösung! Ein ausgeklügeltes, interaktives >Präsentationssystem unserer Produktionszahlen für Besprechungen. Die Exceldatei liefert folgende Informationen: die Anzahl der produzierten Einheiten, die Ausschussquoten, >Kosten für Verschleißteile und Krankmeldungen von Mitarbeitern. Diese Daten erhalten wir aus allen drei Werken täglich um 22:00 Uhr (Hinweis: Bildschirmauflösung: FullHD)
+>Unsere Geschäftsführung erhält alle relevanten Daten unserer Werke vom Controlling als Excel-Datei. Unsere Sekretärin verarbeitet diese Exceldaten zu Diagrammen und kopiert die Exceldatei auf unseren großen Touchscreen im Hauptkonferenzraum für die täglichen Besprechungen. Wir brauchen eine zeitgemäße Lösung! Ein ausgeklügeltes, interaktives Präsentationssystem unserer Produktionszahlen für Besprechungen. Die Exceldatei liefert folgende Informationen: die Anzahl der produzierten Einheiten, die Ausschussquoten, Kosten für Verschleißteile und Krankmeldungen von Mitarbeitern. Diese Daten erhalten wir aus allen drei Werken täglich um 22:00 Uhr (Hinweis: Bildschirmauflösung: FullHD)
 
 ### Low Fidelity
 
@@ -120,7 +120,7 @@ Ihr Kunde ist total verliebt in Ihre bisherige Arbeit und beauftragt Sie:
 
 Home:
 
-![Home_HF](GUI_1/Home_HF_GUI.png)
+![Home_HF](GUI_1/Home_HF.png)
 
 
 Material Design:
